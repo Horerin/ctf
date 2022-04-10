@@ -1,6 +1,6 @@
 # LoadMe
 
-> We have developed a super soft that gives meal ideas based on ingredients. The service is still in beta but the interface should look like this:  
+> We have developed a ```super soft``` that gives meal ideas based on ingredients. The service is still in beta but the interface should look like this:  
 > 
 > nc loadme.insomnihack.ch 1337
 
